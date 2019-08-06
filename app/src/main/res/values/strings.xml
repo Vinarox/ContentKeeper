@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Content Keeper</string>
+
+    <string name="fragment_video">Видео</string>
+    <string name="fragment_music">Музыка</string>
+    <string name="fragment_photo">Фото</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
